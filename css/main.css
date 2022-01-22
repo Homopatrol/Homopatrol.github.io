@@ -6,6 +6,14 @@ body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+img.sticky {
+  top: 0;
+  width: 200px;
+  margin-left: 100px;
+  padding-left: 10px;
+}
+
 .blurb-pic {
   /* The image used */
   background-image: url("./../../pictures/BSMW2021.jpg");
