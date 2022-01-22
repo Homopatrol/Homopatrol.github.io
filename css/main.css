@@ -15,8 +15,7 @@ body {
 .about img.sticky {
   top: 0;
   width: 200px;
-  margin-left: 200px;
-  padding-left: 20px;
+  height: 100%;
 }
 
 .blurb-pic {
