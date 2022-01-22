@@ -7,7 +7,7 @@ body {
 }
 .blurb-pic {
   /* The image used */
-  background-image: url("../../pictures/BSMW2021.jpg");
+  background-image: url("./pictures/BSMW2021.jpg");
   background-color: #b4d9ff;
 
   /* Add the blur effect */
