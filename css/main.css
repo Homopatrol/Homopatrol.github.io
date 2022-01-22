@@ -8,15 +8,15 @@ body {
 }
 .about {
    background-color: #b4d9ff;
-   margin-left: 100px;
-   padding-left: 10px;
+   margin-left: 200px;
+   padding-left: 20px;
 }
 
 .about img.sticky {
   top: 0;
   width: 200px;
-  margin-left: 100px;
-  padding-left: 10px;
+  margin-left: 200px;
+  padding-left: 20px;
 }
 
 .blurb-pic {
