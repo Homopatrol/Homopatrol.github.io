@@ -4,10 +4,10 @@
 body {
     height: 100%;
     margin: 0;
+    background-color: #b4d9ff;
     font-family: Arial, Helvetica, sans-serif;
 }
 .about {
-   background-color: #b4d9ff;
    margin-left: 200px;
    padding-left: 20px;
 }
