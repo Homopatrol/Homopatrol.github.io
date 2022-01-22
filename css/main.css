@@ -17,6 +17,8 @@ body {
   height: 100%;
 
   /* Center and scale the image nicely */
+  margin-left: 100px;
+  padding-left: 10px;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
