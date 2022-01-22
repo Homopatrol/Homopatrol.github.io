@@ -14,13 +14,14 @@ body {
   width: 200px;
   position: fixed;
   z-index: 1;
-  top: 20px;
+  top: 0px;
   left: 0;
-  background-color: #000072;
+  background-color: #000055;
   overflow-x: hidden;
 }
 .sidenav a {
   color: white;
+  top: 10px;
   padding: 16px;
   text-decoration: none;
   display: block;
