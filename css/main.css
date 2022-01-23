@@ -33,6 +33,8 @@ body {
   content: "";
   clear: both;
   display: table;
+  margin-left: 200px;
+  padding-left: 20px;
 }
 
 .blurb-pic {
