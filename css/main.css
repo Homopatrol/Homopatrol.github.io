@@ -14,13 +14,15 @@ body {
 .about p2 {   
     margin-left: 200px;
     padding-left: 20px;
+    display: flex;
 }
 .about img.sticky {
   clear: left;
   top: 0;
   width: 200px;
   height: 100%;  
-  display: flex;
+  flex: 33.33%;
+  padding: 5px;
 }
 .column {
   flex: 33.33%;
