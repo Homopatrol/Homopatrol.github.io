@@ -23,10 +23,20 @@ body {
   flex: 33.33%;
   padding: 5px;
 }
-.column {
+.column-pics {
   flex: 33.33%;
   padding: 5px;
 }
+.column-topp {
+  flex: 30%;
+  padding: 5px;
+} 
+.column-text {
+  flex: 70%;
+  padding: 10px;
+}
+
+
 
 /* Clear floats after image containers */
 .row {
