@@ -14,7 +14,6 @@ body {
 .about p2 {   
     margin-left: 200px;
     padding-left: 20px;
-    display: flex;
 }
 .about img.sticky {
   clear: left;
