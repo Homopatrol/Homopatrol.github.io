@@ -11,7 +11,8 @@ body {
    margin-left: 200px;
    padding-left: 20px;
 }
-.about p2 {
+.about p2 {   
+    display: flex;
     margin-left: 200px;
     padding-left: 20px;
 }
