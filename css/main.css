@@ -21,8 +21,6 @@ body {
   width: 200px;
   height: 100%;  
   display: flex;
-  position: top-left;
- 
 }
 .column {
   flex: 33.33%;
