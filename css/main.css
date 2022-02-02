@@ -22,7 +22,7 @@ body {
 }
 .column-top {
   flex: 30%;
-  padding: 5px;
+  padding: 10px;
 } 
 .column-text {
   flex: 70%;
