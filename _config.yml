@@ -2,6 +2,6 @@ name: Homopatrol - Panda
 markdown: kramdown
 url: https://homopatrol.github.io
 domain: homopatrol.github.io
-permalink: /posts/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 plugins:
   - jekyll-feed
