@@ -67,6 +67,14 @@ body {
   background-size: cover;
 }
 
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
 /* Position text in the middle of the page/image */
 .blurb-text {
   margin-left: 100px;
