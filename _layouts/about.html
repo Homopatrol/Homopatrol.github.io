@@ -1,0 +1,24 @@
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+	</head>
+	<body>
+	       <div class="sidenav"> 
+		        <p> </p>
+		        <a href="/">Home</a>
+			<a href="/about/about.html">Who am I?</a>
+                        <a href="/posts">Posts</a>
+		        <a href="https://www.instagram.com/Homopatrol/">Social</a>
+		        <a href="https://www.linkedin.com/in/pandora-holladay-b01a241a9">LinkedIn</a>
+		        <a href="/feed.xml">RSS</a>
+                </div>
+<div class="about">
+<p>{{ page.date | date_to_string }}</p>
+  {{ content }}
+</div>
