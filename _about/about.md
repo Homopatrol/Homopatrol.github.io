@@ -1,3 +1,8 @@
+---
+layout: about
+---
+# Panda Power
+
 <!DOCTYPE html>
 <html>
 	<head>
