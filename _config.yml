@@ -1,2 +1,4 @@
-	name: Homopatrol - Panda
-	markdown: kramdown
+name: Homopatrol - Panda
+markdown: kramdown
+url: https://homopatrol.github.io
+domain: homopatrol.github.io
