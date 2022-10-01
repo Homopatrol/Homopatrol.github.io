@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Homopatrol</title>
+                <!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/assets/css/main.css">
+	</head>
+	<body>
+	       <div class="sidenav">
+		        <p> </p>
+		        <a href="/">Home</a>
+			<a href="/about/about.html">Who am I?</a>
+                        <a href="/posts">Posts</a>
+		        <a href="https://www.instagram.com/Homopatrol/">Social</a>
+		        <a href="https://www.linkedin.com/in/pandora-holladay-b01a241a9">LinkedIn</a>
+		        <a href="/feed.xml">RSS</a>
+         </div> 
+         <div class="about">
+           <h1>About Me</h1>
+		 <p>Hi i'm Panda (Pandora)</p> 
+		</div>
+		 <div class="row-top">
+<div class="column-top">
+         <img src="./../pictures/aboutme.jpg" alt="Avatar" style="width:100%"> 
+			 </div>
+			 <div class="column-text">
+		 <p2>I am final year Cyber Security student at De Montfort University. My Github hosts my final year project <b>
+		   CI-CD-Docker-Static-Vulnerability-analaysis</b>, which combines my knowledge of CI/CD Pipelines and DevSecOps prinicpals which I accumulated
+		   during my time as an intern at IBM.<br> <br> Outside of Uni I am the current Organ Scholar at St James the Greater, I have also been a memeber of the choir since I was 10!
+		 I enjoy exploring different sports, I started fencing when I was 9 and competited in many local competitions. During my second year of University
+		 I volunteered in the active program, providing staff and students and accessable and safe way to try their hand at fencing. 
+	         <br> <br> I'm heavily invested in compeiting in Strongwoman at the moment, I am working with Chloe Brennan (2019 Englands strongest woman u63kg and 5th Worlds strongest woman 2021 u36kg)
+	</p2>
+					<br>	
+    </div>
+  <table border=1 frame=void rules=rows>
+<!-- 		 <div class="row-bottom"> -->
+<!--   <div class="column-pics">
+    <img src="./../pictures/BSMW2021.jpg" alt="BSMW2021" style="width:100%">
+  </div>
+  <div class="column-pics">
+    <img src="./../pictures/deadlift.jpg" alt="Deadlift" style="width:100%">
+  </div>
+  <div class="column-pics">
+    <img src="./../pictures/fencing.jpg" alt="Fencing" style="width:100%">
+  </div>
+</div>  -->
+           </body>
+    </html>
